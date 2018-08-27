@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "Entre em Contato";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<address>
+    Livraria HB<br />
+    Rua Augusta, 2030, São Paulo<br />
+    Telefone - (15) 3030-3030
+    
+</address>
+
+<address>
+    <strong>Fale Conosco:</strong>   <a href="mailto:Support@livrariahb.com.br">Suporte@livrariahb.com</a><br />
+    <strong>Marketing:</strong> <a href="mailto:Marketing@livrariahb.com.br">Marketing@livrariahb.com</a>
+</address>
+
+<form>
+	<fieldset>
+		<div class="form-group">
+			<label for="exampleInputEmail1">E-mail para Contato</label>
+			<input type="email" class="form-control" id="Email Cliente" aria-describedby="emailHelp" placeholder="Insira seu E-mail">
+			<small id="emailHelp" class="form-text text-muted">Nunca iremos compartilhar seu e-mail.</small>
+		</div>
+		<div class="form-group">
+			<label for="exampleSelect2">Example multiple select</label>
+			<select multiple="" class="form-control" id="exampleSelect2">
+				<option>Reclamações</option>
+				<option>Dúvidas</option>
+				<option>Trabalhe Conosco</option>
+				<option>Acompanhamento de Pedido</option>
+				<option>Outros</option>
+			</select>
+		</div>
+		<div class="form-group">
+			<label for="exampleTextarea">DIgite Aqui</label>
+			<textarea class="form-control" id="Digite Aqui" rows="5"></textarea>
+		</div>
+		<button type="submit" class="btn btn-primary">Enviar</button>
+
+	
+	</fieldset>
+</form>

@@ -1,0 +1,6 @@
+C:\Users\amiel\Desktop\Teste\TesteTecnico3\TesteTecnico\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\amiel\Desktop\Teste\TesteTecnico3\TesteTecnico\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\amiel\Desktop\Teste\TesteTecnico3\TesteTecnico\Models\bin\Debug\Models.dll
+C:\Users\amiel\Desktop\Teste\TesteTecnico3\TesteTecnico\Models\bin\Debug\Models.pdb
+C:\Users\amiel\Desktop\Teste\TesteTecnico3\TesteTecnico\Models\obj\Debug\Models.dll
+C:\Users\amiel\Desktop\Teste\TesteTecnico3\TesteTecnico\Models\obj\Debug\Models.pdb

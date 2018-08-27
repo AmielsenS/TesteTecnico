@@ -1,0 +1,6 @@
+C:\Users\amiel\Desktop\Teste\TesteTecnico3\TesteTecnico\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\amiel\Desktop\Teste\TesteTecnico3\TesteTecnico\DAL\obj\Debug\Interop.DtrHostLib.dll
+C:\Users\amiel\Desktop\Teste\TesteTecnico3\TesteTecnico\DAL\obj\Debug\Interop.TxDataConvert.dll
+C:\Users\amiel\Desktop\Teste\TesteTecnico3\TesteTecnico\DAL\obj\Debug\Interop.TxGroupDups.dll
+C:\Users\amiel\Desktop\Teste\TesteTecnico3\TesteTecnico\DAL\obj\Debug\DAL.csproj.ResolveComReference.cache
+C:\Users\amiel\Desktop\Teste\TesteTecnico3\TesteTecnico\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache

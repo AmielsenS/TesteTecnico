@@ -1,0 +1,4 @@
+C:\Users\amiel\Desktop\Teste\TesteTecnico3\TesteTecnico\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\amiel\Desktop\Teste\TesteTecnico3\TesteTecnico\GUI\obj\Debug\GUI.frmCadastroLivro.resources
+C:\Users\amiel\Desktop\Teste\TesteTecnico3\TesteTecnico\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\amiel\Desktop\Teste\TesteTecnico3\TesteTecnico\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
